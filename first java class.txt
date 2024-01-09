@@ -1,0 +1,9 @@
+* About concepts: In that,
+1.installation
+ 
+-> instal intellj or eclipse
+So I downloaded IntelliJ, in that first I downloaded IntelliJ community application for Mac then in that I downloaded jdk21 version and then I did a first program
+ 2. What is programming language 
+-> basically it is a date processing:
+Eg: amazon
+Overall we can say that programming language is basically used for time saving and make it simple and easy
